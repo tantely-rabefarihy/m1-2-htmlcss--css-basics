@@ -3,13 +3,19 @@ img {
 }
 
 .img1 {
+  margin-right: 100px;
 }
 
 .img2 {
+  visibility: hidden;
+  display: none;
 }
 
 .img3 {
+  visibility: hidden;
+  display: none;
 }
 
 .img4 {
+  margin-left: 100px;
 }
